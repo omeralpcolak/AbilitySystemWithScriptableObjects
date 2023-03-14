@@ -1,1 +1,2 @@
 # Ability System With Scriptable Objects
+<p>In this project, same assets ,that was used in https://github.com/omeralpcolak/Shooting-With-Raycast project, was also used. The character has been given 2 different ability of shooting. These are laser shooting and grenade launcher. Laser shooting was made with raycast and for grenade launcher Rigidbody component was used. Then with the concept of scriptable objects, ability system of these two shooting was created.
