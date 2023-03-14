@@ -18,7 +18,7 @@ public class RaycastShootTriggerable : MonoBehaviour
     public void Initialize ()
     {
         laserLine = GetComponent<LineRenderer>();
-        fpsCam = GetComponent<Camera>();
+        fpsCam = GetComponentInParent<Camera>();
     }
 
     public void Fire ()
