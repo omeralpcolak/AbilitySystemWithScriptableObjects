@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: PinkLaser
   m_EditorClassIdentifier: 
   aName: PinkLaser
-  aSprite: {fileID: 21300000, guid: 5013edfa45d0b21488058db97f67f46a, type: 3}
+  aSprite: {fileID: 21300000, guid: 92afb15d56dc1214285d6f8c4f207f45, type: 3}
   aSound: {fileID: 8300000, guid: 81a6153000036344e98c354b326e080c, type: 3}
-  aBaseCoolDown: 1
+  aBaseCoolDown: 0.5
   gunDamage: 1
   weaponRange: 50
-  hitForce: 100
+  hitForce: 500
   laserColor: {r: 1, g: 0.07075471, b: 0.99296933, a: 1}
